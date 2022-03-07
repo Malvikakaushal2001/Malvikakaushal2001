@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malvikakaushal2001
+- 👋 Hi, I’m Malvika kaushal
 - 👀 I’m interested in the field of Data Science and Machine Learning
 - 🌱 I’m currently learning about the basics of Data Science and ML
 - 📫 How to reach me : Drop a mail to ' malvikakaushal3@gmail.com '
